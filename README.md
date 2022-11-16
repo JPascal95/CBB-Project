@@ -14,6 +14,7 @@ Isaiah wants to enter the challenge and submit a perfect bracket, or at least ge
 ### Which conferences have the most teams in the Final 4?
 
 ![](https://github.com/JPascal95/CBB-Project/blob/main/images/CONF%20Final%204%20Apps%20Query.png)
+![](https://github.com/JPascal95/CBB-Project/blob/main/images/CONF%20Final%204%20Apps.png)
 
 ## Question 2
 ### Which seeds are more likely to make the Final 4?
