@@ -15,12 +15,16 @@ Isaiah wants to enter the challenge and submit a perfect bracket, or at least ge
 
 ![](https://github.com/JPascal95/CBB-Project/blob/main/images/CONF%20Final%204%20Apps%20Query.png)
 ![](https://github.com/JPascal95/CBB-Project/blob/main/images/CONF%20Final%204%20Apps.png)
+ 
+#### The Big Ten, ACC, and SEC conferences have the most Final 4 teams
 
 ## Question 2
 ### Which seeds are more likely to make the Final 4?
 
 ![](https://github.com/JPascal95/CBB-Project/blob/main/images/Seed%20Final%204%20Apps%20Query.png)
 ![](https://github.com/JPascal95/CBB-Project/blob/main/images/Seed%20Final%204%20Apps.png)
+
+#### 1 seeds are the most likely to make it to the Final 4
 
 
 ## Question 3
@@ -30,4 +34,5 @@ Isaiah wants to enter the challenge and submit a perfect bracket, or at least ge
 ![](https://github.com/JPascal95/CBB-Project/blob/main/images/Team%20Final%204%20Apps%20pt%201.png)
 ![](https://github.com/JPascal95/CBB-Project/blob/main/images/Team%20Final%204%20Apps%20pt%202.png)
 
-## Question 4
+#### 21 different schools have reached the Final 4. No school has made it more than twice
+
