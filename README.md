@@ -1,4 +1,5 @@
 # CBB-Project
+![](https://github.com/JPascal95/CBB-Project/blob/main/images/March_Madness_logo.png)
 
 ## Intro
 Isaiah has always loved watching college basketball since he was a child. Every year, he watches the NCAA Tournament, also known as “March Madness”. The NCAA Tournament is a 68-team, single elimination tournament that decides the champion of college basketball for that season. The teams are divided into 4 separate brackets and the winner of each bracket then goes onto the “Final 4”. The Final 4 is widely regarded as one of the biggest stages in American sports as basketball fans from all over the nation watch these last 4 teams play on national television to decide the champion for the season
