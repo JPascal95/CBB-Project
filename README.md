@@ -1,4 +1,4 @@
-# CBB-Project
+# College Basketball Project
 ![](https://github.com/JPascal95/CBB-Project/blob/main/images/March_Madness_logo.png)
 
 ## Intro
