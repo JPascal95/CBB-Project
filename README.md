@@ -19,7 +19,15 @@ Isaiah wants to enter the challenge and submit a perfect bracket, or at least ge
 ## Question 2
 ### Which seeds are more likely to make the Final 4?
 
+![](https://github.com/JPascal95/CBB-Project/blob/main/images/Seed%20Final%204%20Apps%20Query.png)
+![](https://github.com/JPascal95/CBB-Project/blob/main/images/Seed%20Final%204%20Apps.png)
+
+
 ## Question 3
 ### Which schools have made the Final 4 the most?
+
+![](https://github.com/JPascal95/CBB-Project/blob/main/images/Team%20Final%204%20Apps%20Query.png)
+![](https://github.com/JPascal95/CBB-Project/blob/main/images/Team%20Final%204%20Apps%20pt%201.png)
+![](https://github.com/JPascal95/CBB-Project/blob/main/images/Team%20Final%204%20Apps%20pt%202.png)
 
 ## Question 4
