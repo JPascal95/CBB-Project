@@ -37,3 +37,6 @@ Isaiah wants to enter the challenge and submit a perfect bracket, or at least ge
 
 #### 21 different schools have reached the Final 4. No school has made it more than twice
 
+## Conclusion 
+#### Isaiah should pick #1 seeds from the Big Ten, ACC, and SEC conferences to make the Final 4
+
